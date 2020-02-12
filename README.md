@@ -7,7 +7,7 @@
 #### 5.未来有继续开发的计划，不过可能要拖很久了。
 ***
 # Bilibili Fans Viewer Java Edition Instructions
-### Author: confused Jiahong
+### Author: Jiahong
 #### 1. This program is made with the help of my friend based on the previous C language version. The current version is 1.0.
 #### 2. The current functions of the program include real-time display of the number of fans, display of Bilibili video uploader's nickname  and other functions. The interface skin currently in use is Luo Xiaohei.
 #### 3. The file here is the original project of eclipse. After downloading or cloning, it can be put into eclipse for modification.
