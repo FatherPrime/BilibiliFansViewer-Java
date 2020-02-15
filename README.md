@@ -1,4 +1,18 @@
-# B站粉丝数显示器Java版 说明
+# B站粉丝数显示器Java版v1.0.1版 说明
+#### 有同学反映打开软件后，正常输入UID和时间间隔，能显示昵称但不能显示粉丝数。这是因为我为了好看，把粉丝数显示的字体设置为了“思源黑体 CN Bold”，而有的同学并没有安装这个字体。
+#### 解决方案：百度搜索，下载安装思源黑体字体即可（注意，对应的字体名必须是“思源黑体 CN Bold”），或者修改代码重生成，将字体修改成自己电脑上有的。
+#### 为了解决这个问题，我们更新了1.0.1版本。更新内容：
+#### 1.修复字体问题，将字体改为系统自带的的微软雅黑和黑体；
+#### 2.修复粉丝显示窗口任务栏上没有标题的问题。
+***
+# Bilibili Fans Viewer Java Edition 1.0.1 Version Instructions
+#### Some friends reported that after opening the software, enter the UID and time interval normally, it can display the nickname but not the number of fans. This is because for the sake of good looks, I set the font of the number of followers to "SourceHanSansCN-Bold", and some friends did not install this font.
+#### Solution: Baidu search, download and install Siyuan font (note that the corresponding font name must be "SourceHanSansCN-Bold"), or modify the code to regenerate, and modify the font to be on your computer.
+#### To solve this problem, we updated v1.0.1. update content:
+#### 1. Fix the font problem and change the font to Microsoft Yahei and Heihe that comes with the system;
+#### 2. Fixed the problem that there is no title on the taskbar of the fan display window.
+***
+# B站粉丝数显示器Java版v1.0版 说明
 ### 作者：迷茫的嘉鸿
 #### 1.该程序是在朋友 守望时空33 的帮助下根据之前的C语言版本制作而成的。当前版本1.0。
 #### 2.程序目前的功能有粉丝数实时显示、UP主昵称显示等功能。目前使用的界面皮肤是罗小黑。
@@ -6,7 +20,7 @@
 #### 4.经过反复测试修改，我能找到的BUG都修复了。当然不能保证完美，如有任何问题请联系mm_jiahong@qq.com。
 #### 5.未来有继续开发的计划，不过可能要拖很久了。
 ***
-# Bilibili Fans Viewer Java Edition Instructions
+# Bilibili Fans Viewer Java Edition 1.0 Version Instructions
 ### Author: Jiahong
 #### 1. This program is made with the help of my friend ShouWangShiKong33 based on the previous C language version. The current version is 1.0.
 #### 2. The current functions of the program include real-time display of the number of fans, display of Bilibili video uploader's nickname  and other functions. The interface skin currently in use is Luo Xiaohei.
