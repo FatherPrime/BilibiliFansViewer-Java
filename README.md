@@ -7,15 +7,15 @@
 #### 解决方案：百度搜索，下载安装思源黑体字体即可（注意，对应的字体名必须是“思源黑体 CN Bold”），或者修改代码重生成，将字体修改成自己电脑上有的。
 #### 为了解决这个问题，我们更新了1.0.1版本。更新内容：
 #### 1.修复字体问题，将字体改为系统自带的的微软雅黑和黑体；
-#### 2.修复粉丝显示窗口任务栏上没有标题的问题。
+#### 2.修复粉丝数显示窗口在任务栏上没有标题的问题。
 ***
 # Bilibili Fans Viewer Java Edition 1.0.1 Version Instructions
 #### February 15, 2020
 #### Some friends reported that after opening the software, enter the UID and time interval normally, it can display the nickname but not the number of fans. This is because for the sake of good looks, I set the font of the number of followers to "SourceHanSansCN-Bold", and some friends did not install this font.
 #### Solution: Baidu search, download and install Siyuan font (note that the corresponding font name must be "SourceHanSansCN-Bold"), or modify the code to regenerate, and modify the font to be on your computer.
 #### To solve this problem, we updated v1.0.1. Update content:
-#### 1. Fix the font problem and change the font to Microsoft Yahei and Heihe that comes with the system;
-#### 2. Fixed the problem that there is no title on the taskbar of the fan display window.
+#### 1. Fix the font problem and change the font to Microsoft Yahei and Heiti that comes with the system;
+#### 2. Fixed the problem that there is no title on the taskbar of the fans number display window.
 ***
 # B站粉丝数显示器Java版v1.0 说明
 ### 作者：迷茫的嘉鸿 于2020年2月12日
