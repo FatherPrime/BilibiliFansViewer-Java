@@ -1,3 +1,6 @@
+### 【注意】根目录下存放的是1.0原始版本程序和源代码。后续版本和工程文件均存放在Newer Version文件夹里。更新日志在下面更新。
+### Note: Stored in the root directory is the original 1.0 version program and source code. Subsequent versions and project files are stored in the Newer Version folder. The update log is updated below.
+***
 # B站粉丝数显示器Java版v1.0.1 说明
 #### 于2020年2月15日
 #### 有同学反映打开软件后，正常输入UID和时间间隔，能显示昵称但不能显示粉丝数。这是因为我为了好看，把粉丝数显示的字体设置为了“思源黑体 CN Bold”，而有的同学并没有安装这个字体。
