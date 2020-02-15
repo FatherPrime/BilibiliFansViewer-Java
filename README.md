@@ -1,4 +1,4 @@
-# B站粉丝数显示器Java版v1.0.1版 说明
+# B站粉丝数显示器Java版v1.0.1 说明
 #### 于2020年2月15日
 #### 有同学反映打开软件后，正常输入UID和时间间隔，能显示昵称但不能显示粉丝数。这是因为我为了好看，把粉丝数显示的字体设置为了“思源黑体 CN Bold”，而有的同学并没有安装这个字体。
 #### 解决方案：百度搜索，下载安装思源黑体字体即可（注意，对应的字体名必须是“思源黑体 CN Bold”），或者修改代码重生成，将字体修改成自己电脑上有的。
@@ -14,7 +14,7 @@
 #### 1. Fix the font problem and change the font to Microsoft Yahei and Heihe that comes with the system;
 #### 2. Fixed the problem that there is no title on the taskbar of the fan display window.
 ***
-# B站粉丝数显示器Java版v1.0版 说明
+# B站粉丝数显示器Java版v1.0 说明
 ### 作者：迷茫的嘉鸿 于2020年2月12日
 #### 1.该程序是在朋友 守望时空33 的帮助下根据之前的C语言版本制作而成的。当前版本1.0。
 #### 2.程序目前的功能有粉丝数实时显示、UP主昵称显示等功能。目前使用的界面皮肤是罗小黑。
